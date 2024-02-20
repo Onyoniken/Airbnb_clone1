@@ -1,0 +1,54 @@
+<<<<<<< HEAD
+body {
+=======
+/*
+  ========================================
+  Box Sizing
+  ========================================
+*/
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+/*
+  ========================================
+  Body Styles
+  ========================================
+*/
+body {
+    display: block;
+>>>>>>> c557ecbf2da6ea15919b57dd5e5fe4e56f981ea6
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+<<<<<<< HEAD
+    font-family: Circular, "Helvetica Neue", Arial, sans-serif;
+}
+div.container {
+    max-width: 1000px;
+    margin: 30px auto;
+}
+=======
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*
+  ========================================
+  Container Styles
+  ========================================
+*/
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+>>>>>>> c557ecbf2da6ea15919b57dd5e5fe4e56f981ea6

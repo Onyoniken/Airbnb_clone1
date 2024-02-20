@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+footer {
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 60px;
+}
+=======
+.footer{
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    text-align: center;
+    line-height: 60px;
+    position: fixed;
+    bottom: 0;
+}
+>>>>>>> c557ecbf2da6ea15919b57dd5e5fe4e56f981ea6
